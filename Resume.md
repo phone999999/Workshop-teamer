@@ -116,6 +116,6 @@
 
 *ขอบคุณที่สละเวลาอ่านครับ 🙏*
 
-![Thanks](https://img.shields.io/badge/Let's-Connect-blueviolet?style=for-the-badge)
+![Thanks](https://www.google.com/imgres?q=thank%20meme&imgurl=https%3A%2F%2Fblog.staffino.com%2Fwp-content%2Fuploads%2F2016%2F09%2F59349318.jpg&imgrefurl=https%3A%2F%2Fblog.staffino.com%2F10-meme-which-say-thank-you-better-than-words%2F&docid=8La-OwXIUqgY7M&tbnid=l3_BpU6N3J7FyM&vet=12ahUKEwiz76ibz7-VAxWy8TgGHY6YIMsQnPAOegQIMBAA..i&w=397&h=380&hcb=2&ved=2ahUKEwiz76ibz7-VAxWy8TgGHY6YIMsQnPAOegQIMBAA)
 
 </div>
