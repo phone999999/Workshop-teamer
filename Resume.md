@@ -1,71 +1,121 @@
-# ปรวรรษ พิกุลศรี
+<div align="center">
 
-นักศึกษาปริญญาตรี สาขาวิทยาการคอมพิวเตอร์ | สนใจงานด้านเทคโนโลยี การแก้ปัญหา และความมั่นคงปลอดภัยไซเบอร์
-Email: phone3311er@gmail.com | Tel: 0989813190
-Location: Thailand
-GitHub: [[ใส่ลิงก์ถ้ามี](https://github.com/phone999999)] 
+# ⚡ ปรวรรษ พิกุลศรี ⚡
 
-## Professional Summary
+### 🎯 Aspiring Tech Problem Solver | Cybersecurity Enthusiast | Junior Developer
 
-นักศึกษาระดับปริญญาตรีสาขาวิทยาการคอมพิวเตอร์ ที่สนใจการใช้เทคโนโลยีเพื่อแก้ปัญหาในชีวิตจริง มีประสบการณ์เข้าร่วมการแข่งขันด้านไซเบอร์ Hack the Scammer CTF ซึ่งช่วยพัฒนาทักษะการคิดวิเคราะห์ การแก้ปัญหาอย่างเป็นขั้นตอน และการทำงานภายใต้เวลาจำกัด กำลังพัฒนาความรู้ด้านการเขียนโปรแกรม เครื่องมือด้านไอที และพื้นฐานความปลอดภัยไซเบอร์ เพื่อเตรียมความพร้อมสำหรับงานสายเทคโนโลยี
+นักศึกษาปริญญาตรี สาขาวิทยาการคอมพิวเตอร์
+"ใช้เทคโนโลยีเปลี่ยนปัญหาให้กลายเป็นทางออก"
 
-## Career Objective
+📧 phone3311er@gmail.com &nbsp;|&nbsp; 📱 098-981-3190 &nbsp;|&nbsp; 📍 Thailand
+🔗 [GitHub](https://github.com/phone999999)
 
-มองหาโอกาสฝึกงานหรืองานเริ่มต้นในสายเทคโนโลยี เช่น IT Support, Technology Intern, Junior Cybersecurity หรือ Technical Assistant เพื่อเรียนรู้จากการทำงานจริง พัฒนาทักษะอย่างต่อเนื่อง และนำความรู้ด้านการแก้ปัญหาไปใช้สร้างประโยชน์ให้กับองค์กร
+![Status](https://img.shields.io/badge/Status-Open_to_Internship-brightgreen?style=flat-square)
+![Field](https://img.shields.io/badge/Field-Cybersecurity_%26_Dev-blue?style=flat-square)
+![CTF](https://img.shields.io/badge/CTF-Hack_the_Scammer-red?style=flat-square)
 
-## Core Skills
+</div>
 
-- Problem Solving: วิเคราะห์ปัญหา แยกประเด็น และหาวิธีแก้ไขอย่างเป็นขั้นตอน
-- Cybersecurity Awareness: เข้าใจพื้นฐานความปลอดภัยไซเบอร์ สังเกตพฤติกรรมหลอกลวงออนไลน์ และเรียนรู้ผ่านการแข่งขัน CTF
-- Programming Languages: เขียนโปรแกรมพื้นฐานด้วย Python, HTML, CSS และ JavaScript
-- Software / Tools: ใช้งาน VS Code, GitHub, Microsoft Office, Google Workspace และ Canva
-- Technical Skills: ค้นคว้าข้อมูลเชิงเทคนิค ทดลองใช้เครื่องมือใหม่ และแก้ปัญหาการใช้งานคอมพิวเตอร์เบื้องต้น
-- Soft Skills: เรียนรู้ไว รับผิดชอบงาน ทำงานเป็นทีม และกล้าลองผิดลองถูกเพื่อพัฒนาตนเอง
+---
 
-## Competition Experience
+## 🧭 Professional Summary
 
-### Participant — Hack the Scammer CTF
-จัดโดย สำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ (สกมช.) / ThaiCERT
-2025
+> นักศึกษาสาขาวิทยาการคอมพิวเตอร์ที่หลงใหลในการใช้เทคโนโลยีแก้ปัญหาจริง
+> ผ่านสนามแข่งไซเบอร์ **Hack the Scammer CTF** มาแล้ว พร้อมพัฒนาทักษะ
+> การคิดวิเคราะห์ การแก้ปัญหาเชิงระบบ และการทำงานภายใต้แรงกดดัน
+> กำลังลับคมทักษะ **Programming, IT Tools และ Cybersecurity** อย่างต่อเนื่อง 🚀
 
-- เข้าร่วมการแข่งขันทักษะไซเบอร์ Hack the Scammer CTF ที่เน้นการวิเคราะห์ปัญหาความปลอดภัยและภัยหลอกลวงออนไลน์
-- ทำอันดับได้ที่ 327 จากผู้เข้าร่วมกว่า 900 ทีม
-- วิเคราะห์โจทย์ ค้นหาเบาะแส และแก้ปัญหาอย่างเป็นขั้นตอนภายใต้เวลาจำกัด
-- ประยุกต์แนวคิดพื้นฐานด้าน Cybersecurity, Online Scam Awareness และรูปแบบการแข่งขัน Capture The Flag
-- พัฒนาทักษะการอ่านโจทย์ ทดลองหลายแนวทาง และบริหารเวลาระหว่างการแข่งขัน
+---
 
-## Selected Projects
+## 🎯 Career Objective
 
-### Personal Technology Learning Projects
-Tools: VS Code, GitHub, Python, HTML, CSS, JavaScript
+มองหาโอกาส **ฝึกงาน / งานเริ่มต้นสายเทคโนโลยี** เช่น
+`IT Support` &nbsp;·&nbsp; `Technology Intern` &nbsp;·&nbsp; `Junior Cybersecurity` &nbsp;·&nbsp; `Technical Assistant`
+เพื่อเรียนรู้จากงานจริง เติบโตไปกับทีม และสร้างคุณค่าให้องค์กรด้วยทักษะการแก้ปัญหา 💡
 
-- พัฒนาโปรเจกต์ขนาดเล็กเพื่อฝึกพื้นฐานการเขียนโปรแกรมและการแก้ปัญหาด้วยเทคโนโลยี
-- เขียนโปรแกรมพื้นฐาน เช่น โปรแกรมคำนวณและเว็บไซต์หน้าเดียว
-- จัดเก็บและจัดการไฟล์งานผ่าน GitHub เพื่อฝึกการทำงานแบบมีระบบ
-- แก้ไขข้อผิดพลาดของโค้ดด้วยการค้นคว้า ทดลอง และปรับปรุงด้วยตนเอง
+---
 
-### Cybersecurity Self-Learning
-Topics: CTF, Online Scam, Basic Security Concepts
+## 🛠️ Core Skills
 
-- ศึกษาพื้นฐานความปลอดภัยไซเบอร์ผ่านการแข่งขัน CTF และแหล่งเรียนรู้ออนไลน์
-- ฝึกสังเกตรูปแบบการหลอกลวงออนไลน์และแนวทางลดความเสี่ยงทางดิจิทัล
-- ต่อยอดความสนใจด้าน Cybersecurity, Digital Forensics และ Security Awareness
+| หมวด | ทักษะ |
+|------|-------|
+| 🧩 **Problem Solving** | วิเคราะห์ปัญหา แยกประเด็น แก้ไขอย่างเป็นขั้นตอน |
+| 🛡️ **Cybersecurity** | พื้นฐานความปลอดภัยไซเบอร์ · Scam Awareness · CTF |
+| 💻 **Programming** | `Python` `HTML` `CSS` `JavaScript` |
+| 🧰 **Tools** | `VS Code` `GitHub` `MS Office` `Google Workspace` `Canva` |
+| 🔍 **Technical** | ค้นคว้าเชิงเทคนิค · ทดลองเครื่องมือใหม่ · แก้ปัญหาคอมพิวเตอร์ |
+| 🤝 **Soft Skills** | เรียนรู้ไว · รับผิดชอบ · ทำงานเป็นทีม · กล้าลองผิดลองถูก |
 
-## Education
+> 💡 หมายเหตุ ตารางนี้ทำให้ดูสวยบนเว็บ แต่ถ้าจะยื่น ATS ให้เปลี่ยนเป็น bullet list
 
-### ปริญญาตรี สาขาวิทยาการคอมพิวเตอร์
-คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยราชภัฏร้อยเอ็ด
-คาดว่าจะสำเร็จการศึกษา: พ.ศ. 2571
+---
 
-- Relevant Coursework: Computer Fundamentals, Programming, Information Technology, Problem Solving
-- Activities: เข้าร่วมการแข่งขัน Hack the Scammer CTF (2025)
+## 🏆 Competition Experience
 
-## Certifications
+### 🎖️ Hack the Scammer CTF — Participant
+`NCSA (สกมช.)` · `ThaiCERT` · **2025**
 
-- Hack the Scammer CTF Participation — NCSA (สกมช.) / ThaiCERT, 2025
+🥇 **อันดับที่ 327 จากผู้เข้าแข่งขันกว่า 900 ทีม**
 
-## Additional Information
+- 🔎 วิเคราะห์โจทย์ ค้นหาเบาะแส และแก้ปัญหาอย่างเป็นขั้นตอนภายใต้เวลาจำกัด
+- 🛡️ ประยุกต์แนวคิดด้าน Cybersecurity, Online Scam Awareness และ Capture The Flag
+- ⏱️ ฝึกบริหารเวลา ทดลองหลายแนวทาง และตัดสินใจภายใต้แรงกดดัน
+- 🧠 พัฒนาทักษะการอ่านโจทย์และการคิดเชิงวิเคราะห์แบบแฮกเกอร์ (ในทางที่ถูกต้อง)
 
-- Languages: Thai (Native), English (Basic)
-- Interests: Technology for Problem Solving, Cybersecurity, Programming, IT Support
-- Availability: พร้อมสำหรับการฝึกงาน งาน Part-time หรือตำแหน่งเริ่มต้นสายเทคโนโลยี
+---
+
+## 💼 Selected Projects
+
+### 🧪 Personal Technology Learning Projects
+`Python` `HTML` `CSS` `JavaScript` `GitHub`
+
+- 🚀 พัฒนาโปรเจกต์ขนาดเล็กเพื่อฝึกพื้นฐานการเขียนโปรแกรมและการแก้ปัญหา
+- 🧮 เขียนโปรแกรมพื้นฐาน เช่น โปรแกรมคำนวณและเว็บไซต์หน้าเดียว
+- 📂 จัดเก็บและจัดการโค้ดผ่าน GitHub อย่างมีระบบ
+- 🐛 ดีบักและแก้ error ด้วยการค้นคว้า ทดลอง และปรับปรุงด้วยตนเอง
+
+### 🛡️ Cybersecurity Self-Learning
+`CTF` `Online Scam` `Security Concepts`
+
+- 📚 ศึกษาพื้นฐานความปลอดภัยไซเบอร์ผ่าน CTF และแหล่งเรียนรู้ออนไลน์
+- 🎣 ฝึกสังเกตรูปแบบการหลอกลวงออนไลน์และแนวทางลดความเสี่ยง
+- 🔬 สนใจต่อยอดสู่ Digital Forensics และ Security Awareness
+
+---
+
+## 🎓 Education
+
+### 🏫 ปริญญาตรี สาขาวิทยาการคอมพิวเตอร์
+**คณะเทคโนโลยีสารสนเทศ · มหาวิทยาลัยราชภัฏร้อยเอ็ด**
+📅 คาดว่าจะสำเร็จการศึกษา **พ.ศ. 2571**
+
+- 📖 **Coursework:** Computer Fundamentals · Programming · IT · Problem Solving
+- 🎯 **Activities:** Hack the Scammer CTF (2025)
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Hack the Scammer CTF Participation** — NCSA (สกมช.) / ThaiCERT · 2025
+
+---
+
+## 🌐 Additional Information
+
+| | |
+|---|---|
+| 🗣️ **Languages** | Thai (Native) · English (Basic) |
+| ❤️ **Interests** | Tech for Problem Solving · Cybersecurity · Programming · IT Support |
+| ✅ **Availability** | พร้อมฝึกงาน · Part-time · ตำแหน่งเริ่มต้นสายเทคโนโลยี |
+
+---
+
+<div align="center">
+
+### 💬 "Every expert was once a beginner."
+
+*ขอบคุณที่สละเวลาอ่านครับ 🙏*
+
+![Thanks](https://img.shields.io/badge/Let's-Connect-blueviolet?style=for-the-badge)
+
+</div>
